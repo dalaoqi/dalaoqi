@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi coder <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **dalaoqi/dalaoqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dalaoqi&layout=compact&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="TsungHan's GitHub Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=dalaoqi&layout=compact&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="TsungHan's GitHub Stats" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dalaoqi&show_icons=true&line_height=27&count_private=true&&theme=radical"/>
